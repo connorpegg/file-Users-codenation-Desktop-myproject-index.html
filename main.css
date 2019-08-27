@@ -1,23 +1,30 @@
 * {
-    background-color: goldenrod;
+    background-color: black;
     font-size: 12px;
 }
 .large {
-    font-size: 15px;
+    font-size: 17px;
 }
 .title {
-    font-size: 16px;
+    font-size: 19px;
 }
 .header {
-    font-size: 18px;
+    font-size: 20px;
 }
 * {
     box-sizing: border-box;
-    padding: 18px
+    padding: 15px
 }
 .center {
     text-align: center;
 }
 h1, h2, p {
     color: white
+}
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower&display=swap');
+h1, h2, p {
+    font-family: 'Indie Flower', cursive;
+}
+body {
+    background-color: goldenrod
 }
