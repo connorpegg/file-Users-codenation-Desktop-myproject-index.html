@@ -1,6 +1,4 @@
-* {
-    background-color: rgb(2, 2, 2, 0.4);
-}
+
 .large {
     font-size: 17px;
 }
@@ -25,5 +23,5 @@ h1, h2, p {
     font-family: 'Indie Flower', cursive;
 }
 body {
-    background-color: goldenrod
+   background-image: url("crest.jpg")
 }
