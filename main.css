@@ -1,20 +1,28 @@
-body {background-size: cover;}
-.large {
-    font-size: 17px;
-}
-
-.title {
-    font-size: 19px;
-}
-
-.header {
-    font-size: 20px;
-}
+@import url('https://fonts.googleapis.com/css?family=Oswald&display=swap');
 
 * {
     box-sizing: border-box;
     padding: 15px
 }
+
+body {background-size: cover;}
+
+.backgroundtest {
+    background-image: url("background.gif")
+}
+.large {
+    font-size: 25px;
+}
+
+.title {
+    font-size: 26px;
+}
+
+.header {
+    font-size: 28px;
+}
+
+
 
 .center {
     text-align: center;
@@ -24,7 +32,7 @@ h1, h2, p {
     color: white
 }
 
-@import url('https://fonts.googleapis.com/css?family=Oswald&display=swap');
+
 
 h1, h2, p {
     font-family: 'Oswald', sans-serif;
