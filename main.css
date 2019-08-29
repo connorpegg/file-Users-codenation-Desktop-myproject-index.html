@@ -5,11 +5,12 @@
     padding: 15px
 }
 
-body {background-size: cover;}
+body {background-size: cover;
+    background-image: url("background.gif")}
 
-.backgroundtest {
-    background-image: url("background.gif")
-}
+/* .backgroundtest {
+    background-image: url("background.gif") */
+/* } */
 .large {
     font-size: 25px;
 }
