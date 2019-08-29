@@ -41,7 +41,7 @@ h1, h2, p {
     font-size: 28px;
     font-family: 'Indie Flower', cursive;
     padding:15px;
-    width: 25%;
+    width: 20%;
     text-align: center;
 }
 
@@ -49,6 +49,7 @@ h1, h2, p {
   .box2 {background:goldenrod;}
   .box3 {background:goldenrod;}
   .box4 {background:goldenrod;}
+  .box5 {background:goldenrod;}
 
   .color {
       background-color: goldenrod
